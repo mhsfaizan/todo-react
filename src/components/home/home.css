@@ -1,0 +1,12 @@
+.todo-Container {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 5rem;
+    background-color: #dbdbdb;
+    padding: 2rem;
+}
+
+.todo-Container input {
+    width: 100%;
+    padding: 7px 5px;
+}
